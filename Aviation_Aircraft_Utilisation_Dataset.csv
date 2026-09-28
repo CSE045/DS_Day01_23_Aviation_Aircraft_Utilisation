@@ -1,0 +1,301 @@
+Flight_ID,Aircraft_Type,Route,Flight_Duration,Turnaround_Time,Route_Distance,Passenger_Capacity,Actual_Passengers
+FL1001,Airbus A321,Chennai-Delhi,206,48,1760,220,179
+FL1002,Airbus A321,Chennai-Bengaluru,45,32,290,220,162
+FL1003,Boeing 737-800,Bengaluru-Hyderabad,56,50,500,174,126
+FL1004,Airbus A320,Kolkata-Mumbai,182,56,1660,180,159
+FL1005,Airbus A321,Kolkata-Mumbai,200,73,1660,220,168
+FL1006,Airbus A321,Chennai-Delhi,210,36,1760,220,174
+FL1007,Airbus A320,Hyderabad-Delhi,149,49,1260,180,135
+FL1008,Boeing 737 MAX,Delhi-Kolkata,169,64,1310,178,146
+FL1009,Boeing 737-800,Chennai-Mumbai,132,31,1030,174,112
+FL1010,Boeing 737-800,Mumbai-Bengaluru,105,58,840,174,109
+FL1011,Airbus A321,Delhi-Bengaluru,214,44,1740,220,193
+FL1012,Boeing 737 MAX,Delhi-Kolkata,164,50,1310,178,139
+FL1013,Boeing 737 MAX,Delhi-Bengaluru,231,54,1740,178,160
+FL1014,Boeing 737 MAX,Hyderabad-Delhi,147,54,1260,178,129
+FL1015,Airbus A321,Hyderabad-Delhi,148,53,1260,220,186
+FL1016,Airbus A321,Mumbai-Delhi,148,62,1150,220,194
+FL1017,Airbus A321,Bengaluru-Hyderabad,63,57,500,220,186
+FL1018,Airbus A321,Hyderabad-Delhi,142,52,1260,220,198
+FL1019,Boeing 737-800,Chennai-Bengaluru,45,51,290,174,169
+FL1020,Airbus A321,Mumbai-Delhi,132,43,1150,220,170
+FL1021,Airbus A321,Chennai-Mumbai,118,43,1030,220,191
+FL1022,Airbus A321,Hyderabad-Delhi,149,42,1260,220,180
+FL1023,Airbus A321,Delhi-Kolkata,181,33,1310,220,147
+FL1024,Boeing 737-800,Bengaluru-Hyderabad,57,72,500,174,107
+FL1025,Airbus A320,Chennai-Delhi,216,51,1760,180,152
+FL1026,Boeing 737 MAX,Delhi-Bengaluru,200,35,1740,178,156
+FL1027,Boeing 737 MAX,Chennai-Delhi,215,57,1760,178,158
+FL1028,Airbus A320,Delhi-Kolkata,158,56,1310,180,150
+FL1029,Boeing 737-800,Hyderabad-Delhi,156,68,1260,174,141
+FL1030,Boeing 737-800,Chennai-Bengaluru,45,62,290,174,171
+FL1031,Airbus A321,Kolkata-Mumbai,206,61,1660,220,168
+FL1032,Boeing 737 MAX,Chennai-Bengaluru,45,41,290,178,166
+FL1033,Boeing 737-800,Delhi-Kolkata,144,46,1310,174,135
+FL1034,Airbus A321,Chennai-Mumbai,125,52,1030,220,180
+FL1035,Airbus A320,Chennai-Mumbai,137,73,1030,180,162
+FL1036,Boeing 737-800,Mumbai-Bengaluru,109,40,840,174,114
+FL1037,Boeing 737 MAX,Chennai-Mumbai,119,63,1030,178,166
+FL1038,Boeing 737-800,Mumbai-Bengaluru,95,62,840,174,137
+FL1039,Airbus A320,Mumbai-Bengaluru,109,65,840,180,149
+FL1040,Airbus A321,Kolkata-Mumbai,190,61,1660,220,173
+FL1041,Airbus A321,Chennai-Delhi,213,68,1760,220,187
+FL1042,Boeing 737-800,Chennai-Bengaluru,45,54,290,174,119
+FL1043,Boeing 737-800,Delhi-Kolkata,175,36,1310,174,143
+FL1044,Boeing 737 MAX,Kolkata-Mumbai,203,31,1660,178,146
+FL1045,Airbus A320,Bengaluru-Hyderabad,63,38,500,180,156
+FL1046,Airbus A320,Mumbai-Delhi,147,49,1150,180,150
+FL1047,Boeing 737 MAX,Mumbai-Bengaluru,107,40,840,178,163
+FL1048,Airbus A320,Chennai-Bengaluru,45,64,290,180,162
+FL1049,Boeing 737 MAX,Hyderabad-Delhi,155,64,1260,178,115
+FL1050,Boeing 737 MAX,Hyderabad-Delhi,143,37,1260,178,138
+FL1051,Airbus A321,Mumbai-Delhi,147,41,1150,220,216
+FL1052,Airbus A321,Mumbai-Delhi,130,59,1150,220,189
+FL1053,Boeing 737-800,Mumbai-Bengaluru,109,56,840,174,131
+FL1054,Airbus A321,Delhi-Bengaluru,223,62,1740,220,139
+FL1055,Airbus A320,Mumbai-Delhi,152,46,1150,180,148
+FL1056,Boeing 737 MAX,Bengaluru-Hyderabad,64,66,500,178,149
+FL1057,Boeing 737 MAX,Chennai-Mumbai,143,62,1030,178,169
+FL1058,Boeing 737 MAX,Bengaluru-Hyderabad,56,32,500,178,123
+FL1059,Boeing 737 MAX,Delhi-Bengaluru,218,32,1740,178,141
+FL1060,Boeing 737 MAX,Chennai-Bengaluru,45,52,290,178,118
+FL1061,Boeing 737-800,Kolkata-Mumbai,205,62,1660,174,146
+FL1062,Airbus A320,Mumbai-Bengaluru,91,55,840,180,122
+FL1063,Airbus A321,Delhi-Bengaluru,216,74,1740,220,216
+FL1064,Boeing 737 MAX,Chennai-Mumbai,124,43,1030,178,125
+FL1065,Boeing 737 MAX,Mumbai-Delhi,131,31,1150,178,109
+FL1066,Boeing 737 MAX,Delhi-Kolkata,150,51,1310,178,162
+FL1067,Boeing 737-800,Kolkata-Mumbai,199,66,1660,174,157
+FL1068,Airbus A320,Chennai-Bengaluru,45,34,290,180,154
+FL1069,Airbus A321,Chennai-Delhi,212,59,1760,220,182
+FL1070,Airbus A321,Mumbai-Delhi,151,42,1150,220,192
+FL1071,Boeing 737-800,Kolkata-Mumbai,211,48,1660,174,124
+FL1072,Boeing 737 MAX,Kolkata-Mumbai,196,30,1660,178,171
+FL1073,Airbus A321,Delhi-Bengaluru,210,54,1740,220,167
+FL1074,Boeing 737 MAX,Bengaluru-Hyderabad,63,34,500,178,174
+FL1075,Boeing 737-800,Delhi-Kolkata,160,66,1310,174,124
+FL1076,Boeing 737-800,Hyderabad-Delhi,148,59,1260,174,131
+FL1077,Boeing 737-800,Chennai-Delhi,220,65,1760,174,147
+FL1078,Airbus A320,Bengaluru-Hyderabad,74,34,500,180,112
+FL1079,Boeing 737 MAX,Delhi-Bengaluru,212,34,1740,178,154
+FL1080,Airbus A320,Chennai-Delhi,219,31,1760,180,143
+FL1081,Airbus A320,Chennai-Delhi,199,62,1760,180,166
+FL1082,Airbus A320,Mumbai-Delhi,144,30,1150,180,163
+FL1083,Airbus A320,Chennai-Bengaluru,45,37,290,180,145
+FL1084,Airbus A320,Kolkata-Mumbai,193,70,1660,180,166
+FL1085,Airbus A321,Chennai-Delhi,206,40,1760,220,204
+FL1086,Airbus A320,Chennai-Bengaluru,45,65,290,180,153
+FL1087,Boeing 737-800,Bengaluru-Hyderabad,67,64,500,174,147
+FL1088,Boeing 737 MAX,Chennai-Delhi,225,53,1760,178,127
+FL1089,Airbus A321,Bengaluru-Hyderabad,67,52,500,220,145
+FL1090,Airbus A320,Mumbai-Delhi,151,51,1150,180,141
+FL1091,Airbus A320,Mumbai-Delhi,143,48,1150,180,138
+FL1092,Boeing 737-800,Bengaluru-Hyderabad,63,50,500,174,120
+FL1093,Boeing 737 MAX,Bengaluru-Hyderabad,66,74,500,178,151
+FL1094,Airbus A320,Kolkata-Mumbai,217,41,1660,180,148
+FL1095,Airbus A320,Kolkata-Mumbai,203,67,1660,180,142
+FL1096,Airbus A321,Chennai-Bengaluru,45,66,290,220,177
+FL1097,Boeing 737-800,Mumbai-Delhi,149,51,1150,174,140
+FL1098,Boeing 737 MAX,Chennai-Mumbai,120,60,1030,178,165
+FL1099,Airbus A321,Mumbai-Bengaluru,94,48,840,220,192
+FL1100,Airbus A321,Mumbai-Delhi,136,49,1150,220,135
+FL1101,Boeing 737 MAX,Chennai-Bengaluru,45,30,290,178,123
+FL1102,Airbus A321,Hyderabad-Delhi,142,62,1260,220,151
+FL1103,Boeing 737-800,Bengaluru-Hyderabad,62,40,500,174,155
+FL1104,Boeing 737 MAX,Bengaluru-Hyderabad,68,47,500,178,118
+FL1105,Airbus A321,Hyderabad-Delhi,148,30,1260,220,148
+FL1106,Airbus A320,Mumbai-Bengaluru,109,40,840,180,144
+FL1107,Boeing 737 MAX,Kolkata-Mumbai,220,37,1660,178,123
+FL1108,Boeing 737-800,Chennai-Delhi,198,57,1760,174,126
+FL1109,Boeing 737 MAX,Bengaluru-Hyderabad,64,62,500,178,174
+FL1110,Airbus A320,Chennai-Delhi,203,42,1760,180,154
+FL1111,Boeing 737-800,Mumbai-Delhi,146,31,1150,174,164
+FL1112,Boeing 737-800,Chennai-Bengaluru,45,34,290,174,156
+FL1113,Airbus A321,Chennai-Bengaluru,45,61,290,220,160
+FL1114,Airbus A321,Chennai-Mumbai,137,54,1030,220,155
+FL1115,Boeing 737-800,Chennai-Mumbai,125,64,1030,174,159
+FL1116,Airbus A321,Chennai-Mumbai,128,34,1030,220,216
+FL1117,Boeing 737-800,Mumbai-Delhi,152,66,1150,174,142
+FL1118,Boeing 737-800,Kolkata-Mumbai,192,38,1660,174,124
+FL1119,Boeing 737-800,Chennai-Mumbai,127,30,1030,174,146
+FL1120,Airbus A320,Chennai-Bengaluru,45,37,290,180,166
+FL1121,Airbus A321,Kolkata-Mumbai,175,32,1660,220,165
+FL1122,Airbus A321,Delhi-Bengaluru,214,34,1740,220,200
+FL1123,Boeing 737-800,Hyderabad-Delhi,149,52,1260,174,171
+FL1124,Airbus A321,Bengaluru-Hyderabad,73,68,500,220,193
+FL1125,Boeing 737-800,Delhi-Bengaluru,221,59,1740,174,102
+FL1126,Airbus A321,Mumbai-Delhi,138,67,1150,220,189
+FL1127,Airbus A320,Chennai-Bengaluru,45,71,290,180,151
+FL1128,Airbus A321,Chennai-Mumbai,125,49,1030,220,191
+FL1129,Boeing 737 MAX,Bengaluru-Hyderabad,61,42,500,178,147
+FL1130,Boeing 737-800,Mumbai-Delhi,123,45,1150,174,171
+FL1131,Airbus A321,Mumbai-Bengaluru,95,33,840,220,185
+FL1132,Boeing 737 MAX,Hyderabad-Delhi,153,58,1260,178,158
+FL1133,Boeing 737 MAX,Delhi-Bengaluru,201,50,1740,178,149
+FL1134,Airbus A320,Delhi-Bengaluru,206,50,1740,180,129
+FL1135,Boeing 737-800,Chennai-Mumbai,108,75,1030,174,146
+FL1136,Boeing 737-800,Chennai-Mumbai,141,38,1030,174,136
+FL1137,Boeing 737-800,Hyderabad-Delhi,169,59,1260,174,132
+FL1138,Airbus A321,Chennai-Mumbai,132,64,1030,220,157
+FL1139,Airbus A320,Chennai-Delhi,210,51,1760,180,116
+FL1140,Boeing 737-800,Kolkata-Mumbai,204,31,1660,174,166
+FL1141,Airbus A320,Kolkata-Mumbai,207,75,1660,180,147
+FL1142,Airbus A321,Delhi-Bengaluru,224,44,1740,220,112
+FL1143,Boeing 737 MAX,Hyderabad-Delhi,147,68,1260,178,150
+FL1144,Airbus A320,Chennai-Mumbai,120,73,1030,180,119
+FL1145,Airbus A320,Chennai-Mumbai,123,39,1030,180,99
+FL1146,Airbus A321,Hyderabad-Delhi,147,51,1260,220,172
+FL1147,Boeing 737-800,Chennai-Bengaluru,47,71,290,174,171
+FL1148,Airbus A320,Bengaluru-Hyderabad,72,63,500,180,114
+FL1149,Airbus A321,Chennai-Bengaluru,45,62,290,220,171
+FL1150,Airbus A320,Mumbai-Bengaluru,98,33,840,180,115
+FL1151,Boeing 737-800,Chennai-Bengaluru,45,65,290,174,149
+FL1152,Boeing 737 MAX,Mumbai-Bengaluru,106,33,840,178,137
+FL1153,Airbus A321,Mumbai-Bengaluru,102,67,840,220,183
+FL1154,Airbus A321,Hyderabad-Delhi,156,55,1260,220,215
+FL1155,Airbus A321,Bengaluru-Hyderabad,56,48,500,220,147
+FL1156,Boeing 737 MAX,Chennai-Mumbai,127,30,1030,178,172
+FL1157,Boeing 737-800,Mumbai-Bengaluru,93,65,840,174,141
+FL1158,Airbus A320,Mumbai-Delhi,139,39,1150,180,132
+FL1159,Airbus A320,Delhi-Kolkata,149,69,1310,180,145
+FL1160,Boeing 737-800,Chennai-Delhi,221,46,1760,174,114
+FL1161,Airbus A320,Chennai-Bengaluru,46,60,290,180,150
+FL1162,Airbus A320,Bengaluru-Hyderabad,64,38,500,180,128
+FL1163,Boeing 737-800,Mumbai-Delhi,141,51,1150,174,133
+FL1164,Boeing 737 MAX,Chennai-Bengaluru,45,59,290,178,152
+FL1165,Airbus A321,Bengaluru-Hyderabad,56,43,500,220,155
+FL1166,Boeing 737-800,Chennai-Delhi,221,47,1760,174,103
+FL1167,Boeing 737 MAX,Chennai-Bengaluru,45,67,290,178,119
+FL1168,Airbus A320,Delhi-Kolkata,176,46,1310,180,109
+FL1169,Airbus A320,Delhi-Kolkata,154,69,1310,180,141
+FL1170,Airbus A321,Delhi-Kolkata,148,44,1310,220,199
+FL1171,Airbus A321,Chennai-Mumbai,133,65,1030,220,174
+FL1172,Airbus A320,Mumbai-Bengaluru,109,56,840,180,160
+FL1173,Airbus A321,Chennai-Mumbai,126,39,1030,220,160
+FL1174,Airbus A320,Kolkata-Mumbai,211,60,1660,180,130
+FL1175,Airbus A321,Chennai-Delhi,233,44,1760,220,149
+FL1176,Airbus A320,Chennai-Bengaluru,45,41,290,180,129
+FL1177,Airbus A320,Delhi-Bengaluru,212,65,1740,180,138
+FL1178,Boeing 737 MAX,Kolkata-Mumbai,196,40,1660,178,114
+FL1179,Boeing 737-800,Kolkata-Mumbai,193,52,1660,174,123
+FL1180,Airbus A321,Kolkata-Mumbai,204,54,1660,220,216
+FL1181,Airbus A320,Chennai-Bengaluru,50,66,290,180,152
+FL1182,Boeing 737 MAX,Kolkata-Mumbai,198,38,1660,178,164
+FL1183,Boeing 737-800,Mumbai-Delhi,142,51,1150,174,138
+FL1184,Airbus A321,Delhi-Kolkata,157,55,1310,220,160
+FL1185,Boeing 737-800,Chennai-Delhi,215,69,1760,174,157
+FL1186,Airbus A321,Bengaluru-Hyderabad,72,39,500,220,155
+FL1187,Boeing 737 MAX,Hyderabad-Delhi,160,40,1260,178,93
+FL1188,Boeing 737-800,Delhi-Bengaluru,200,56,1740,174,82
+FL1189,Airbus A320,Mumbai-Delhi,144,35,1150,180,110
+FL1190,Airbus A320,Chennai-Bengaluru,45,72,290,180,127
+FL1191,Boeing 737-800,Kolkata-Mumbai,200,57,1660,174,115
+FL1192,Airbus A321,Chennai-Bengaluru,56,42,290,220,173
+FL1193,Boeing 737-800,Delhi-Kolkata,171,61,1310,174,129
+FL1194,Boeing 737-800,Chennai-Mumbai,125,69,1030,174,125
+FL1195,Airbus A321,Delhi-Bengaluru,221,31,1740,220,147
+FL1196,Boeing 737-800,Chennai-Mumbai,136,33,1030,174,96
+FL1197,Airbus A320,Chennai-Bengaluru,45,75,290,180,125
+FL1198,Boeing 737-800,Chennai-Mumbai,133,30,1030,174,160
+FL1199,Airbus A320,Delhi-Kolkata,154,37,1310,180,128
+FL1200,Boeing 737-800,Hyderabad-Delhi,149,62,1260,174,145
+FL1201,Boeing 737 MAX,Chennai-Bengaluru,45,43,290,178,132
+FL1202,Boeing 737 MAX,Chennai-Bengaluru,45,47,290,178,121
+FL1203,Airbus A321,Kolkata-Mumbai,189,31,1660,220,214
+FL1204,Airbus A320,Bengaluru-Hyderabad,51,31,500,180,124
+FL1205,Airbus A321,Delhi-Kolkata,169,38,1310,220,155
+FL1206,Boeing 737-800,Bengaluru-Hyderabad,63,51,500,174,134
+FL1207,Boeing 737 MAX,Chennai-Bengaluru,45,75,290,178,120
+FL1208,Airbus A321,Chennai-Mumbai,144,38,1030,220,104
+FL1209,Boeing 737 MAX,Delhi-Bengaluru,201,51,1740,178,153
+FL1210,Airbus A321,Chennai-Delhi,223,35,1760,220,199
+FL1211,Boeing 737-800,Bengaluru-Hyderabad,61,63,500,174,162
+FL1212,Airbus A320,Bengaluru-Hyderabad,69,52,500,180,150
+FL1213,Airbus A320,Kolkata-Mumbai,199,60,1660,180,128
+FL1214,Boeing 737-800,Chennai-Bengaluru,45,36,290,174,110
+FL1215,Boeing 737-800,Chennai-Mumbai,111,75,1030,174,111
+FL1216,Boeing 737 MAX,Delhi-Bengaluru,216,65,1740,178,125
+FL1217,Airbus A321,Kolkata-Mumbai,209,68,1660,220,169
+FL1218,Boeing 737 MAX,Mumbai-Delhi,139,53,1150,178,150
+FL1219,Boeing 737-800,Mumbai-Bengaluru,96,65,840,174,149
+FL1220,Airbus A321,Chennai-Delhi,217,46,1760,220,165
+FL1221,Boeing 737-800,Delhi-Bengaluru,208,38,1740,174,171
+FL1222,Airbus A320,Chennai-Bengaluru,45,72,290,180,175
+FL1223,Boeing 737 MAX,Kolkata-Mumbai,196,66,1660,178,137
+FL1224,Boeing 737 MAX,Mumbai-Delhi,145,48,1150,178,108
+FL1225,Airbus A320,Chennai-Mumbai,115,45,1030,180,136
+FL1226,Boeing 737 MAX,Mumbai-Delhi,147,52,1150,178,151
+FL1227,Airbus A320,Mumbai-Bengaluru,103,47,840,180,141
+FL1228,Airbus A320,Kolkata-Mumbai,204,61,1660,180,133
+FL1229,Boeing 737-800,Delhi-Kolkata,144,44,1310,174,130
+FL1230,Airbus A320,Delhi-Kolkata,163,52,1310,180,136
+FL1231,Airbus A320,Delhi-Bengaluru,223,68,1740,180,87
+FL1232,Airbus A320,Chennai-Bengaluru,45,63,290,180,134
+FL1233,Airbus A321,Bengaluru-Hyderabad,45,52,500,220,203
+FL1234,Boeing 737 MAX,Delhi-Kolkata,163,58,1310,178,101
+FL1235,Boeing 737-800,Hyderabad-Delhi,155,74,1260,174,169
+FL1236,Boeing 737-800,Delhi-Bengaluru,218,64,1740,174,137
+FL1237,Airbus A321,Delhi-Kolkata,181,73,1310,220,156
+FL1238,Airbus A321,Hyderabad-Delhi,150,68,1260,220,207
+FL1239,Boeing 737 MAX,Bengaluru-Hyderabad,46,33,500,178,133
+FL1240,Boeing 737-800,Bengaluru-Hyderabad,61,53,500,174,140
+FL1241,Boeing 737 MAX,Kolkata-Mumbai,197,35,1660,178,155
+FL1242,Airbus A321,Chennai-Bengaluru,45,42,290,220,194
+FL1243,Boeing 737-800,Hyderabad-Delhi,153,37,1260,174,137
+FL1244,Boeing 737 MAX,Mumbai-Bengaluru,105,39,840,178,174
+FL1245,Airbus A321,Delhi-Bengaluru,209,32,1740,220,169
+FL1246,Boeing 737 MAX,Mumbai-Bengaluru,107,52,840,178,162
+FL1247,Airbus A320,Hyderabad-Delhi,151,47,1260,180,117
+FL1248,Boeing 737-800,Chennai-Mumbai,128,67,1030,174,129
+FL1249,Airbus A320,Chennai-Bengaluru,45,57,290,180,123
+FL1250,Airbus A320,Hyderabad-Delhi,153,54,1260,180,137
+FL1251,Airbus A320,Delhi-Bengaluru,198,37,1740,180,116
+FL1252,Airbus A321,Bengaluru-Hyderabad,61,66,500,220,156
+FL1253,Boeing 737 MAX,Bengaluru-Hyderabad,61,32,500,178,159
+FL1254,Boeing 737 MAX,Chennai-Bengaluru,45,74,290,178,174
+FL1255,Airbus A320,Mumbai-Bengaluru,111,57,840,180,142
+FL1256,Airbus A320,Hyderabad-Delhi,144,71,1260,180,126
+FL1257,Boeing 737 MAX,Mumbai-Bengaluru,104,74,840,178,136
+FL1258,Boeing 737-800,Hyderabad-Delhi,151,59,1260,174,120
+FL1259,Airbus A321,Delhi-Bengaluru,216,58,1740,220,181
+FL1260,Boeing 737 MAX,Delhi-Kolkata,165,69,1310,178,102
+FL1261,Airbus A321,Delhi-Bengaluru,217,64,1740,220,216
+FL1262,Boeing 737 MAX,Mumbai-Bengaluru,112,57,840,178,134
+FL1263,Boeing 737 MAX,Bengaluru-Hyderabad,57,56,500,178,143
+FL1264,Boeing 737 MAX,Chennai-Mumbai,132,30,1030,178,158
+FL1265,Boeing 737-800,Kolkata-Mumbai,219,41,1660,174,122
+FL1266,Airbus A321,Chennai-Mumbai,125,40,1030,220,122
+FL1267,Boeing 737-800,Delhi-Kolkata,146,58,1310,174,128
+FL1268,Boeing 737 MAX,Chennai-Mumbai,136,40,1030,178,141
+FL1269,Boeing 737 MAX,Delhi-Bengaluru,206,40,1740,178,153
+FL1270,Airbus A321,Mumbai-Delhi,145,45,1150,220,169
+FL1271,Airbus A320,Chennai-Delhi,202,32,1760,180,127
+FL1272,Airbus A321,Chennai-Mumbai,135,63,1030,220,149
+FL1273,Airbus A320,Mumbai-Delhi,141,41,1150,180,136
+FL1274,Boeing 737-800,Chennai-Bengaluru,45,58,290,174,126
+FL1275,Airbus A320,Chennai-Bengaluru,45,36,290,180,149
+FL1276,Airbus A321,Bengaluru-Hyderabad,60,59,500,220,139
+FL1277,Boeing 737-800,Delhi-Kolkata,163,65,1310,174,121
+FL1278,Airbus A320,Mumbai-Bengaluru,98,51,840,180,131
+FL1279,Boeing 737-800,Bengaluru-Hyderabad,68,40,500,174,123
+FL1280,Boeing 737 MAX,Chennai-Mumbai,122,60,1030,178,91
+FL1281,Boeing 737-800,Hyderabad-Delhi,157,37,1260,174,145
+FL1282,Airbus A321,Mumbai-Bengaluru,97,41,840,220,182
+FL1283,Airbus A320,Mumbai-Bengaluru,114,39,840,180,158
+FL1284,Boeing 737 MAX,Delhi-Bengaluru,214,62,1740,178,99
+FL1285,Airbus A320,Chennai-Mumbai,122,68,1030,180,162
+FL1286,Boeing 737-800,Mumbai-Bengaluru,117,44,840,174,148
+FL1287,Boeing 737-800,Kolkata-Mumbai,214,35,1660,174,153
+FL1288,Airbus A320,Mumbai-Bengaluru,114,70,840,180,171
+FL1289,Boeing 737-800,Chennai-Bengaluru,45,49,290,174,146
+FL1290,Boeing 737-800,Delhi-Kolkata,165,35,1310,174,171
+FL1291,Boeing 737-800,Mumbai-Bengaluru,119,70,840,174,123
+FL1292,Boeing 737 MAX,Kolkata-Mumbai,216,41,1660,178,130
+FL1293,Airbus A321,Hyderabad-Delhi,151,75,1260,220,182
+FL1294,Boeing 737 MAX,Chennai-Bengaluru,45,61,290,178,159
+FL1295,Airbus A321,Delhi-Bengaluru,216,32,1740,220,123
+FL1296,Boeing 737 MAX,Kolkata-Mumbai,191,44,1660,178,130
+FL1297,Airbus A320,Delhi-Kolkata,168,60,1310,180,138
+FL1298,Boeing 737-800,Chennai-Bengaluru,45,73,290,174,118
+FL1299,Boeing 737-800,Chennai-Delhi,239,61,1760,174,142
+FL1300,Airbus A320,Chennai-Delhi,214,65,1760,180,133
